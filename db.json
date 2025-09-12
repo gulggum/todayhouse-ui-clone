@@ -1,0 +1,304 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "모던한 원목 침대 프레임",
+      "price": 249000,
+      "discount": 10,
+      "category": "가구",
+      "image": "https://via.placeholder.com/300x300?text=침대",
+      "rating": 4.6,
+      "reviewCount": 128
+    },
+    {
+      "id": 2,
+      "title": "북유럽 스타일 소파",
+      "price": 599000,
+      "discount": 15,
+      "category": "가구",
+      "image": "https://via.placeholder.com/300x300?text=소파",
+      "rating": 4.8,
+      "reviewCount": 215
+    },
+    {
+      "id": 3,
+      "title": "슬라이딩 수납장",
+      "price": 189000,
+      "discount": 5,
+      "category": "수납",
+      "image": "https://via.placeholder.com/300x300?text=수납장",
+      "rating": 4.4,
+      "reviewCount": 76
+    },
+    {
+      "id": 4,
+      "title": "LED 원형 조명 거울",
+      "price": 59000,
+      "discount": 10,
+      "category": "조명",
+      "image": "https://via.placeholder.com/300x300?text=LED+거울",
+      "rating": 4.5,
+      "reviewCount": 48
+    },
+    {
+      "id": 5,
+      "title": "극세사 포근한 이불 세트",
+      "price": 99000,
+      "discount": 20,
+      "category": "패브릭",
+      "image": "https://via.placeholder.com/300x300?text=이불",
+      "rating": 4.9,
+      "reviewCount": 180
+    },
+    {
+      "id": 6,
+      "title": "화이트 세라믹 식탁",
+      "price": 319000,
+      "discount": 10,
+      "category": "주방",
+      "image": "https://via.placeholder.com/300x300?text=식탁",
+      "rating": 4.2,
+      "reviewCount": 56
+    },
+    {
+      "id": 7,
+      "title": "USB 간접 조명",
+      "price": 19900,
+      "discount": 5,
+      "category": "조명",
+      "image": "https://via.placeholder.com/300x300?text=간접조명",
+      "rating": 4.1,
+      "reviewCount": 39
+    },
+    {
+      "id": 8,
+      "title": "틈새 수납 틈새장",
+      "price": 47900,
+      "discount": 15,
+      "category": "수납",
+      "image": "https://via.placeholder.com/300x300?text=틈새장",
+      "rating": 4.3,
+      "reviewCount": 67
+    },
+    {
+      "id": 9,
+      "title": "빈티지 스타일 커튼",
+      "price": 69000,
+      "discount": 10,
+      "category": "패브릭",
+      "image": "https://via.placeholder.com/300x300?text=커튼",
+      "rating": 4.7,
+      "reviewCount": 112
+    },
+    {
+      "id": 10,
+      "title": "욕실 스테인리스 선반",
+      "price": 25900,
+      "discount": 5,
+      "category": "욕실",
+      "image": "https://via.placeholder.com/300x300?text=욕실선반",
+      "rating": 4.0,
+      "reviewCount": 24
+    },
+    {
+      "id": 11,
+      "title": "무드등 플로어 스탠드",
+      "price": 89900,
+      "discount": 15,
+      "category": "조명",
+      "image": "https://via.placeholder.com/300x300?text=무드등",
+      "rating": 4.6,
+      "reviewCount": 91
+    },
+    {
+      "id": 12,
+      "title": "고급 소파 커버 세트",
+      "price": 45900,
+      "discount": 10,
+      "category": "패브릭",
+      "image": "https://via.placeholder.com/300x300?text=소파커버",
+      "rating": 4.4,
+      "reviewCount": 64
+    },
+    {
+      "id": 13,
+      "title": "주방 조리도구 세트",
+      "price": 35900,
+      "discount": 0,
+      "category": "주방",
+      "image": "https://via.placeholder.com/300x300?text=조리도구",
+      "rating": 4.5,
+      "reviewCount": 73
+    },
+    {
+      "id": 14,
+      "title": "LED 화장대 조명 거울",
+      "price": 89900,
+      "discount": 20,
+      "category": "인테리어",
+      "image": "https://via.placeholder.com/300x300?text=화장대거울",
+      "rating": 4.8,
+      "reviewCount": 135
+    },
+    {
+      "id": 15,
+      "title": "스마트 무드등 시계",
+      "price": 29900,
+      "discount": 10,
+      "category": "디지털",
+      "image": "https://via.placeholder.com/300x300?text=스마트시계",
+      "rating": 4.6,
+      "reviewCount": 98
+    },
+    {
+      "id": 16,
+      "title": "폴딩 접이식 테이블",
+      "price": 49900,
+      "discount": 5,
+      "category": "가구",
+      "image": "https://via.placeholder.com/300x300?text=폴딩테이블",
+      "rating": 4.3,
+      "reviewCount": 80
+    },
+    {
+      "id": 17,
+      "title": "원형 러그 매트",
+      "price": 29900,
+      "discount": 0,
+      "category": "패브릭",
+      "image": "https://via.placeholder.com/300x300?text=러그",
+      "rating": 4.4,
+      "reviewCount": 53
+    },
+    {
+      "id": 18,
+      "title": "클래식 원목 책상",
+      "price": 219000,
+      "discount": 10,
+      "category": "가구",
+      "image": "https://via.placeholder.com/300x300?text=책상",
+      "rating": 4.7,
+      "reviewCount": 102
+    },
+    {
+      "id": 19,
+      "title": "수납형 서랍장 세트",
+      "price": 189000,
+      "discount": 15,
+      "category": "수납",
+      "image": "https://via.placeholder.com/300x300?text=서랍장",
+      "rating": 4.5,
+      "reviewCount": 89
+    },
+    {
+      "id": 20,
+      "title": "조립식 옷장",
+      "price": 129000,
+      "discount": 10,
+      "category": "가구",
+      "image": "https://via.placeholder.com/300x300?text=옷장",
+      "rating": 4.2,
+      "reviewCount": 49
+    },
+    {
+      "id": 21,
+      "title": "아로마 디퓨저",
+      "price": 19900,
+      "discount": 0,
+      "category": "인테리어",
+      "image": "https://via.placeholder.com/300x300?text=디퓨저",
+      "rating": 4.4,
+      "reviewCount": 36
+    },
+    {
+      "id": 22,
+      "title": "벽걸이 수납 선반",
+      "price": 26900,
+      "discount": 5,
+      "category": "수납",
+      "image": "https://via.placeholder.com/300x300?text=수납선반",
+      "rating": 4.1,
+      "reviewCount": 61
+    },
+    {
+      "id": 23,
+      "title": "미니 공기청정기",
+      "price": 45900,
+      "discount": 10,
+      "category": "디지털",
+      "image": "https://via.placeholder.com/300x300?text=공기청정기",
+      "rating": 4.3,
+      "reviewCount": 78
+    },
+    {
+      "id": 24,
+      "title": "주방 수납 트롤리",
+      "price": 54900,
+      "discount": 10,
+      "category": "주방",
+      "image": "https://via.placeholder.com/300x300?text=트롤리",
+      "rating": 4.2,
+      "reviewCount": 44
+    },
+    {
+      "id": 25,
+      "title": "LED 천장등",
+      "price": 39900,
+      "discount": 20,
+      "category": "조명",
+      "image": "https://via.placeholder.com/300x300?text=천장등",
+      "rating": 4.7,
+      "reviewCount": 150
+    },
+    {
+      "id": 26,
+      "title": "접이식 좌식 테이블",
+      "price": 31900,
+      "discount": 0,
+      "category": "가구",
+      "image": "https://via.placeholder.com/300x300?text=좌식테이블",
+      "rating": 4.3,
+      "reviewCount": 70
+    },
+    {
+      "id": 27,
+      "title": "방수 욕실 매트",
+      "price": 19900,
+      "discount": 5,
+      "category": "욕실",
+      "image": "https://via.placeholder.com/300x300?text=욕실매트",
+      "rating": 4.4,
+      "reviewCount": 58
+    },
+    {
+      "id": 28,
+      "title": "USB 책상 스탠드",
+      "price": 28900,
+      "discount": 10,
+      "category": "디지털",
+      "image": "https://via.placeholder.com/300x300?text=책상스탠드",
+      "rating": 4.5,
+      "reviewCount": 99
+    },
+    {
+      "id": 29,
+      "title": "침대 헤드 쿠션",
+      "price": 35900,
+      "discount": 15,
+      "category": "패브릭",
+      "image": "https://via.placeholder.com/300x300?text=헤드쿠션",
+      "rating": 4.6,
+      "reviewCount": 83
+    },
+    {
+      "id": 30,
+      "title": "4단 서랍장",
+      "price": 89000,
+      "discount": 10,
+      "category": "수납",
+      "image": "https://via.placeholder.com/300x300?text=4단서랍장",
+      "rating": 4.4,
+      "reviewCount": 72
+    }
+  ]
+}
